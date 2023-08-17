@@ -1,0 +1,38 @@
+/* navbarcontainer{
+    width: 1240px;
+    height: 100px;
+    left: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+} */
+content{
+    width: 242px;
+height: 34px;
+top: 29px;
+left: 268px;
+
+}
+p{
+    /* font-weight: 600;
+     */
+     /* font-family: Vazirmatn; */
+font-size: 22px;
+font-weight: 500;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+/* styles.css */
+.image-style {
+    width: 63px;
+    height: 63px;
+    top: 11px;
+    left: 191px;
+
+    /* margin-left: 50px; */
+  }

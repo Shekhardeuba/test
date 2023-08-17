@@ -1,0 +1,53 @@
+.maincontainer {
+    border-radius: 5px !important;
+    border: 1px solid black;
+    padding: 15px;
+}
+
+
+  
+
+  .data-container {
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 15px;
+    margin-top: 10px;
+  }
+  
+  
+  #second {
+    background-color: blue;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 15px; /* Add padding for spacing inside the container */
+    margin-top: 10px; /* Add some margin from the search bar */
+  }
+  
+  .circledplay {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .form-control {
+    border-left: none !important;
+  }
+  .btn-search{
+    border-left: 1px;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-color:black;
+  }
+
+  .btn-container{
+    position: relative;
+    border: 1px solid black;
+  }
+
+  .search-icon {
+    position: absolute !important;
+  }
+
+  .btn-container input {
+    border: none !important;
+  }
